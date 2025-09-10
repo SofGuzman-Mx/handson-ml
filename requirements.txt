@@ -25,7 +25,7 @@ tensorflow==1.15.5 # or tensorflow-gpu==1.15.5 for GPU support
 
 tensorboard==1.15.0
 
-##### Reinforcement Learning library (chapter 16)
+##### Reinforcement Learning library (chapter 15)
 
 # There are a few dependencies you need to install first, check out:
 # https://github.com/openai/gym#installing-everything
